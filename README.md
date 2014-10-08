@@ -7,7 +7,8 @@ These scripts are built using AutoHotkey: http://ahkscript.org/
 <br>
 => Built with AutoHotkey 1.1.16.05 running on Windows 7 64bit
 <br>
-This script requires TaskDialog.ahk from TheGood
+<br>
+=> This script requires TaskDialog.ahk from TheGood
 <br>
 http://www.autohotkey.com/board/topic/54555-taskdialog-stdlib-compatible/<br>
 
