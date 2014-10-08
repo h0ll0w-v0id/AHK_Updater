@@ -1,4 +1,4 @@
-<h3>A very simple task dialog (Windows Vista / 7) driven AutoHotkey updater</h3>
+<h3>A very simple Windows 7 task dialog driven AutoHotkey updater - using TaskDialog by TheGood</h3>
 <br>
 These scripts are built using AutoHotkey: http://ahkscript.org/
 <br>
