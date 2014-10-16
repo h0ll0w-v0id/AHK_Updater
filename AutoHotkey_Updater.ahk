@@ -13,7 +13,8 @@
 
 	Project Overview:
 	
-		A very simple Windows 7 task dialog driven AutoHotkey updater
+		A very simple AutoHotkey script that uses task dialogs to determine
+		if AutoHotkey is up to date - using TaskDialog by TheGood
 		
 		I started this project to better understand TaskDialogs and so
 		I based code off of what TheGood and just me had developed...
