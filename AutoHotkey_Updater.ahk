@@ -36,6 +36,7 @@
 ; for a way better AutoHotkey Update program, refer to the one that Lexikos made
 ; http://l.autohotkey.net/Update.ahk
 
+; found here http://www.autohotkey.com/board/topic/54555-taskdialog-stdlib-compatible/
 #include TaskDialog.ahk
 #SingleInstance Force
 
