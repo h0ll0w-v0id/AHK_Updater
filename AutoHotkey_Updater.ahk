@@ -1,14 +1,36 @@
-; AutoHotkey Updater
+/*
+	-----------------------------------------------------------------------------------
+	REVISION BLOCK
+		
+	Project Name: AutoHotkey_Updater
+	
+	Revision History:
+	
+	Date		Rev			Change Description
+	-----------------------------------------------------------------------------------
+	10/07/14	1.0.0		Beta release
+	-----------------------------------------------------------------------------------
 
-; version 1.0.0
-; tested on Windows 7 64bit, with AHK 1.1.16.5
+	Project Overview:
+	
+		A very simple AutoHotkey update script
+		
+		I started this project to better understand TaskDialogs and so
+		I based code off of what TheGood and just me had developed...
+	
+	Project Features:
+	
+		NA
+			
+	Project Notes:
 
-; I started this project to better understand TaskDialogs
-; and so I based code off of what TheGood and just me
-; had developed...
-
-; this script requires TaskDialog - written by TheGood
-;  http://www.autohotkey.com/board/topic/54555-taskdialog-stdlib-compatible/
+		Requires PC Running Windows 7
+		
+		Requires TaskDialog - written by TheGood
+		http://www.autohotkey.com/board/topic/54555-taskdialog-stdlib-compatible/
+			
+	-----------------------------------------------------------------------------------
+*/
 
 ; for a way better AutoHotkey Update program, refer to the one that Lexikos made
 ; http://l.autohotkey.net/Update.ahk
