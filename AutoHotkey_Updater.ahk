@@ -1,15 +1,15 @@
 /*
-	-----------------------------------------------------------------------------------
+	--------------------------------------------------------
 	REVISION BLOCK
 		
 	Project Name: AutoHotkey_Updater
 	
 	Revision History:
 	
-	Date		Rev			Change Description
-	-----------------------------------------------------------------------------------
+	Date		Rev		Change Description
+	--------------------------------------------------------
 	10/07/14	1.0.0		Beta release
-	-----------------------------------------------------------------------------------
+	--------------------------------------------------------
 
 	Project Overview:
 	
@@ -30,7 +30,7 @@
 		Requires TaskDialog - written by TheGood
 		http://www.autohotkey.com/board/topic/54555-taskdialog-stdlib-compatible/
 			
-	-----------------------------------------------------------------------------------
+	--------------------------------------------------------
 */
 
 ; for a way better AutoHotkey Update program, refer to the one that Lexikos made
