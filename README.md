@@ -8,7 +8,7 @@ AutoHotkey_Updater
 These scripts are built using AutoHotkey: http://ahkscript.org/
 <br>
 <br>
-<h3>VisualDrives</h3> https://github.com/h0ll0w-v0id/Gadgets/blob/master/VisualDrives.ahk
+<h3>AutoHotkey_Updater</h3> https://github.com/h0ll0w-v0id/AutoHotkey_Updater/blob/master/AutoHotkey_Updater.ahk
 <br>
 => Built with AutoHotkey 1.1.16.05 running on Windows 7 64bit
 <br>
