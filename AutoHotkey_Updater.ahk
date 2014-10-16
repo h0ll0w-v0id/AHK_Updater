@@ -13,7 +13,7 @@
 
 	Project Overview:
 	
-		A very simple AutoHotkey update script
+		A very simple Windows 7 task dialog driven AutoHotkey updater
 		
 		I started this project to better understand TaskDialogs and so
 		I based code off of what TheGood and just me had developed...
