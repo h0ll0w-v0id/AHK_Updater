@@ -58,7 +58,7 @@ taskDialog_Main:
 	; if new version is available
 	If ( A_AhkVersion < Latest_AhkVersion )
 	{
-		iButtonID := TaskDialog("", "AutoHotkey Update||A new version of AutoHotkey is available!`n"
+		iButtonID := TaskDialog(0, "AutoHotkey Update||A new version of AutoHotkey is available!`n"
 		 					. "||Installed version " A_AhkVersion, "Download latest version " Latest_AhkVersion
 							. "`nClick to open the webpage" 
 		  					. "|View ""Changes and New Features""`nClick to open the webpage|Exit", 0x10, "GREY")
