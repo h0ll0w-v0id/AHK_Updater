@@ -6,9 +6,10 @@
 	
 	Revision History:
 	
-	Date		Rev		Change Description
+	Date		Rev			Change Description
 	--------------------------------------------------------
 	10/07/14	1.0.0		Beta release
+	10/29/14	1.0.1		Updated comments
 	--------------------------------------------------------
 
 	Project Overview:
@@ -27,20 +28,22 @@
 
 		Requires PC Running Windows 7
 		
-		Requires TaskDialog - written by TheGood
-		http://www.autohotkey.com/board/topic/54555-taskdialog-stdlib-compatible/
+		Requires TaskDialog.ahk
 			
 	--------------------------------------------------------
 */
-
-; for a way better AutoHotkey Update program, refer to the one that Lexikos made
-; http://l.autohotkey.net/Update.ahk
-
-; found here http://www.autohotkey.com/board/topic/54555-taskdialog-stdlib-compatible/
+; ----------------------------------------------------------
+; Info .........: for a more advanced Updater - http://l.autohotkey.net/Update.ahk
+; ----------------------------------------------------------
+; Include ......: TaskDialog.ahk
+; Author .......: TheGood
+; Info .........: http://www.autohotkey.com/board/topic/54555-taskdialog-stdlib-compatible/
+; ----------------------------------------------------------
 #include TaskDialog.ahk
 #SingleInstance Force
-
-; main display label
+; ----------------------------------------------------------
+; Label ........: Main Label
+; ----------------------------------------------------------
 taskDialog_Main:
 	; download server version to temp file
 	UrlDownloadToFile, http://ahkscript.org/download/1.1/version.txt,AutoHotkey_Updater_tmp.txt
