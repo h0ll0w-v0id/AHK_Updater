@@ -4,7 +4,7 @@ AHK_Updater
 These scripts are built using [AutoHotkey](http://ahkscript.org/)
 
 <hr width=50%>
-[AutoHotkey_Updater](AutoHotkey_Updater.ahk)<br>
+[AHK_Updater](AHK_Updater.ahk)<br>
 ![Preview1](UPDATERpreview.PNG "Preview1")<br>![Preview2](UPDATERpreview2.PNG "Preview2")<br>
 => Uses TaskDialogs to check if AutoHotkey is up to date<br>
 => Built with AutoHotkey 1.1.16.05 running on Windows 7 64bit<br>
