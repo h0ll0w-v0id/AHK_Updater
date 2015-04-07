@@ -2,7 +2,7 @@
 	--------------------------------------------------------
 	REVISION BLOCK
 		
-	Project Name: AutoHotkey_Updater
+	Project Name: AHK_Updater.ahk
 	
 	Revision History:
 	
