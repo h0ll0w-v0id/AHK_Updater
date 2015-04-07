@@ -1,4 +1,4 @@
-AutoHotkey_Updater
+AHK_Updater
 =======
 <br>A very simple AutoHotkey script that uses task dialogs to determine if AutoHotkey is up to date - using TaskDialog by TheGood<br>
 These scripts are built using [AutoHotkey](http://ahkscript.org/)
