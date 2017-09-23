@@ -1,11 +1,9 @@
 # AHK_Updater
 A very simple AutoHotkey script that uses task dialogs to determine if AutoHotkey is up to date - using TaskDialog by TheGood
 
-<hr width=50%>
-
 ## Screenshots
-![Preview1](UPDATERpreview.png)
-![Preview2](UPDATERpreview2.png)
+![Preview1](UPDATERpreview.PNG)
+![Preview2](UPDATERpreview2.PNG)
 
 ## Info and Features
 * Uses TaskDialogs to check if AutoHotkey is up to date<br>
